@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import https from 'node:https';
 
 const RESET  = '\x1b[0m';
