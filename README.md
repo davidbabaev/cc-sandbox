@@ -6,3 +6,5 @@ Personal sandbox for learning Claude Code workflows.
 - `hello.js` - First interactive Node script
 - `kickoff.js` - Morning CLI with date and quote (works as global `kickoff` command)
 - `CLAUDE.md` - Project context for Claude Code
+
+Last updated: Day 4 (May 1, 2026)
