@@ -1,0 +1,13 @@
+# Dependencies
+   node_modules/
+
+   # Secrets — NEVER commit these
+   .env
+   .env.local
+
+   # Logs
+   *.log
+
+   # OS clutter
+   .DS_Store
+   Thumbs.db
