@@ -8,3 +8,6 @@ Personal sandbox for learning Claude Code workflows.
 - `CLAUDE.md` - Project context for Claude Code
 
 Last updated: Day 4 (May 1, 2026)
+
+
+Sandbox for learning Claude Code workflows.
